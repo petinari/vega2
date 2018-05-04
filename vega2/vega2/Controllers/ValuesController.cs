@@ -13,7 +13,7 @@ namespace vega2.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "val" };
+            return new string[] { "value1", "valfgdfghdfghdfghd" };
         }
 
         // GET api/values/5
