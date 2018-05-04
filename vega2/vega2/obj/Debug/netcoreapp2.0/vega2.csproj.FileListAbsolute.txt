@@ -1,0 +1,11 @@
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\bin\Debug\netcoreapp2.0\vega2.deps.json
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\bin\Debug\netcoreapp2.0\vega2.runtimeconfig.json
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\bin\Debug\netcoreapp2.0\vega2.runtimeconfig.dev.json
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\bin\Debug\netcoreapp2.0\vega2.dll
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\bin\Debug\netcoreapp2.0\vega2.pdb
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\obj\Debug\netcoreapp2.0\vega2.csprojResolveAssemblyReference.cache
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\obj\Debug\netcoreapp2.0\vega2.csproj.CoreCompileInputs.cache
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\obj\Debug\netcoreapp2.0\vega2.AssemblyInfoInputs.cache
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\obj\Debug\netcoreapp2.0\vega2.AssemblyInfo.cs
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\obj\Debug\netcoreapp2.0\vega2.dll
+C:\cursoAspNet\cursoAspNetCore\vega2\vega2\vega2\obj\Debug\netcoreapp2.0\vega2.pdb
